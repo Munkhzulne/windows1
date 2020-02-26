@@ -1,22 +1,36 @@
 ﻿using System;
-using Munkhzul;
-using Task2;
-
-namespace Windows1
+namespace Task2
 {
-    class Program
+    public class Class2
     {
-        static void Main(string[] args)
+        public string publicName;
+        private int privateAge;
+        public Class2()
         {
-            Console.WriteLine("Hello World!");
-            Munkhzul.Lab1.Class1 class1 = new Munkhzul.Lab1.Class1();
-            class1.readFromNamespaceLab1();
-            Task2.Class2 class2 = new Task2.Class2();
-            class2.setPrivateAge(20);
-            class2.setPublicName("Zulaa");
-            class2.printPrivateAge();
-            class2.printPublicName();
-
+        }
+        public void setPublicName (string ner)
+        {
+            publicName = ner;
+        }
+        public void setPrivateAge(int nas)
+        {
+            privateAge = nas;
+        }
+        public void printPublicName()
+        {
+            Console.WriteLine("PublicName: " + publicName);
+        }
+        public void printPrivateAge()
+        {
+            Console.WriteLine("PrivateAge: " + privateAge);
+        }
+        public string getPublicName()
+        {
+            return publicName;
+        }
+        public int getPrivateAge()
+        {
+            return privateAge;
         }
     }
 }
