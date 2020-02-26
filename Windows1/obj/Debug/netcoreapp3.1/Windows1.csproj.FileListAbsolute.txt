@@ -1,0 +1,10 @@
+/Users/munkhzul/Desktop/windowsProgramming/Windows1/Windows1/bin/Debug/netcoreapp3.1/Windows1.deps.json
+/Users/munkhzul/Desktop/windowsProgramming/Windows1/Windows1/bin/Debug/netcoreapp3.1/Windows1.runtimeconfig.json
+/Users/munkhzul/Desktop/windowsProgramming/Windows1/Windows1/bin/Debug/netcoreapp3.1/Windows1.runtimeconfig.dev.json
+/Users/munkhzul/Desktop/windowsProgramming/Windows1/Windows1/bin/Debug/netcoreapp3.1/Windows1.dll
+/Users/munkhzul/Desktop/windowsProgramming/Windows1/Windows1/bin/Debug/netcoreapp3.1/Windows1.pdb
+/Users/munkhzul/Desktop/windowsProgramming/Windows1/Windows1/obj/Debug/netcoreapp3.1/Windows1.csprojAssemblyReference.cache
+/Users/munkhzul/Desktop/windowsProgramming/Windows1/Windows1/obj/Debug/netcoreapp3.1/Windows1.AssemblyInfoInputs.cache
+/Users/munkhzul/Desktop/windowsProgramming/Windows1/Windows1/obj/Debug/netcoreapp3.1/Windows1.AssemblyInfo.cs
+/Users/munkhzul/Desktop/windowsProgramming/Windows1/Windows1/obj/Debug/netcoreapp3.1/Windows1.dll
+/Users/munkhzul/Desktop/windowsProgramming/Windows1/Windows1/obj/Debug/netcoreapp3.1/Windows1.pdb
